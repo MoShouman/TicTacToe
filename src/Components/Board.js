@@ -6,8 +6,9 @@ const rowStyle = {
 };
 
 const boardStyle = {
-  backgroundColor: "#eee",
-  width: "208px",
+  backgroundColor: "#3b4483",
+  width: "50vh",
+  height: "50vh",
   alignItems: "center",
   justifyContent: "center",
   display: "flex",
@@ -25,7 +26,8 @@ const instructionsStyle = {
   marginTop: "5px",
   marginBottom: "5px",
   fontWeight: "bold",
-  fontSize: "16px"
+  fontSize: "26px",
+  color: "white"
 };
 
 const buttonStyle = {

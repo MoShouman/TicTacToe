@@ -1,12 +1,12 @@
 const squareStyle = {
-  width: "60px",
-  height: "60px",
-  backgroundColor: "#ddd",
+  width: "16vh",
+  height: "16vh",
+  backgroundColor: "#62ACB5",
   margin: "4px",
   display: "flex",
   justifyContent: "center",
   alignItems: "center",
-  fontSize: "20px",
+  fontSize: "30px",
   color: "white"
 };
 
