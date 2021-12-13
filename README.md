@@ -1,2 +1,1 @@
-# TicTacToe
-Created with CodeSandbox
+https://csb-tciuo.netlify.app/
